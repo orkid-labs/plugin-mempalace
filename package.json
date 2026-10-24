@@ -1,7 +1,7 @@
 {
   "name": "@orkid-labs/plugin-mempalace",
-  "description": "Persistent agent memory via MemPalace MCP — store, search, and recall context across sessions. Supports stdio and HTTP/SSE transports.",
-  "version": "2.0.0",
+  "description": "ElizaOS plugin for persistent agent memory via MemPalace MCP \u2014 verbatim store, search, and recall of agent context across sessions with local-first storage over stdio or HTTP/SSE",
+  "version": "2.0.1",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -13,10 +13,21 @@
   "keywords": [
     "plugin",
     "elizaos",
+    "eliza",
+    "ai-agent",
+    "agent-plugin",
     "mempalace",
     "memory",
+    "agent-memory",
+    "persistent-memory",
+    "long-term-memory",
     "mcp",
-    "persistent"
+    "mcp-server",
+    "vector-search",
+    "local-first",
+    "recall",
+    "context",
+    "typescript"
   ],
   "repository": {
     "type": "git",
